@@ -93,4 +93,10 @@ If using A*2, it will also print the initial heuristic value.
 - Use of **heuristics** to improve search performance and guide the agent efficiently
 - Understanding of **action costs**, state representation, and node expansion during search
 
+### Input File
+![image](https://github.com/user-attachments/assets/21f84f4f-f890-42a0-9102-29a0426a95a4)
+This image shows a grid representing a cleaning environment. The 'x' characters delineate walls 🧱, forming both the perimeter and internal barriers. The 'j' characters mark dirt spots 🧹. The 'c' represents the cleaning agent 🤖. Additionally, there are numbers '1' and '2' present, which signify different types of dirt, item locations, perhaps power-ups/obstacles for the agent.
 
+### Output File
+![image](https://github.com/user-attachments/assets/0d9362ea-c9af-4c03-aa48-787deeea2f95)
+The image depicts a grid-like structure. The 'x' characters represent walls 🧱, forming both the outer boundaries and internal partitions. The letter 'j' signifies dirt spots 🧹, while 'c' indicates the agent (cleaner) 🤖 within this confined environment.
